@@ -1,5 +1,5 @@
-🧾 🎯 **Project Title:** **WIRELESS CONTROLLED ROBOT BASED ON THE ARDUINO PLATFORM  
-**📅 **Project Timeline:** **August 2018 – August 2019**  
+**🧾 🎯 Project Title: WIRELESS CONTROLLED ROBOT BASED ON THE ARDUINO PLATFORM  
+📅 Project Timeline: August 2018 – August 2019**  
 🎥 YouTube Demo: Not available  
 📦 GitHub Source Code: <https://github.com/IvanSicaja/2018.08.01_GitHub_Wireless-controlled-robot-based-on-the-arduino-platform>
 
