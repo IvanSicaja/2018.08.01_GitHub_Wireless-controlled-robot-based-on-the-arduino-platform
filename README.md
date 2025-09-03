@@ -1,16 +1,14 @@
 **🧾 🎯 Project Title: WIRELESS CONTROLLED ROBOT BASED ON THE ARDUINO PLATFORM  
 📅 Project Timeline: August 2018 – August 2019**  
 🎥 YouTube Demo: Not available  
-📦 GitHub Source Code: <https://github.com/IvanSicaja/2018.08.01_GitHub_Wireless-controlled-robot-based-on-the-arduino-platform>
-
+📦 GitHub Source Code: <https://github.com/IvanSicaja/2018.08.01_GitHub_Wireless-Controlled-Robot-Based-on-the-Arduino-Platform>  
 \----------------------------------------------------------------------------------------------------------------
 
 🏷️ My Personal Profiles: ⬇︎  
 🎥 Video Portfolio: To be added  
 📦 GitHub Profile: <https://github.com/IvanSicaja>  
 🔗 LinkedIn: <https://www.linkedin.com/in/ivan-si%C4%8Daja-832682222>  
-🎥 YouTube: <https://www.youtube.com/@ivan_sicaja>
-
+🎥 YouTube: <https://www.youtube.com/@ivan_sicaja>  
 \----------------------------------------------------------------------------------------------------------------
 
 ### 📚🔍 Project description: ⬇︎⬇︎⬇︎
